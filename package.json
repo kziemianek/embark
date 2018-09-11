@@ -110,6 +110,7 @@
   "homepage": "https://embark.status.im/",
   "license": "MIT",
   "devDependencies": {
+    "cross-env": "^5.2.0",
     "eslint": "4.13.1",
     "mocha-sinon": "^1.1.4",
     "sinon": "^4.5.0",
